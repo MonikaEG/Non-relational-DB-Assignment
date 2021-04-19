@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<characters>
+    <char ref="char1">
+        <name>Jotaro Kujo</name>
+        <stand>Star Platinum</stand>
+        <nationality>Japanese</nationality>
+        <occupation>Student</occupation>
+        <quote>"Good grief."</quote>
+    </char>
+
+    <char ref="char2">
+        <name>Joseph Joestar</name>
+        <stand>Hermit Purple</stand>
+        <nationality>British</nationality>
+        <occupation>Real Estate</occupation>
+        <quote>"OH MY GOD!"</quote>
+    </char>
+
+    <char ref="char3">
+        <name>Muhammad Avdol</name>
+        <stand>Magician's Red</stand>
+        <nationality>Egyptian</nationality>
+        <occupation>Fortune Teller</occupation>
+        <quote>"YES! I AM!"</quote>
+    </char>
+
+     <char ref="char4">
+        <name>Noriaki Kakyoin</name>
+        <stand>Hierophant Green</stand>
+        <nationality>Japanese</nationality>
+        <occupation>Student</occupation>
+        <quote>"Emerald Splash!"</quote>
+    </char>
+
+    <char ref="char5">
+        <name>Jean Pierre Polnareff</name>
+        <stand>Silver Chariot</stand>
+        <nationality>French</nationality>
+        <occupation>Independent Investigator</occupation>
+        <quote>"I'm gonna turn you into a pincushion!"</quote>
+    </char>
+    
+    <char ref="char6">
+        <name>Iggy</name>
+        <stand>The Fool</stand>
+        <nationality>American</nationality>
+        <occupation>Homeless Dog</occupation>
+        <quote>"Woof!"</quote>
+    </char>
+</characters>
